@@ -13,7 +13,6 @@ My recent work spans garage operations software, incident management, AI decisio
 | [Replay](https://github.com/builtbydans/Replay-AI) | A hackathon prototype for inspecting and replaying AI-assisted clinical decisions with evidence and verification receipts. Won **Best Use of Cursor & Codex**. Built with Next.js, Express, Supabase, and Gensyn REE integration. | [Live app](https://replay-ai-wheat.vercel.app/) |
 | [Commander](https://github.com/builtbydans/commander) | An incident management console with severity and status workflows, an append-only timeline, ownership, and on-call schedules. React/Vite frontend, Hono API, Drizzle, and PostgreSQL. | — |
 | [Aptura Eval Lab](https://github.com/builtbydans/aptura-eval-lab) | An experiment in comparing AI agent runs, task-level outcomes, and evidence from evaluation traces. Early-stage work built around a skill evaluation harness. | — |
-| [eng-recall](https://github.com/builtbydans/eng-recall) | A lightweight engineering flashcard and MCQ app for practising JavaScript, TypeScript, React, Node, and SQL concepts. | — |
 
 ## Stack
 
