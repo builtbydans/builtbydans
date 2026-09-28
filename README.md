@@ -1,82 +1,27 @@
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+# Hi, I'm Dan 👋
 
-# Hi, I'm Dan(ish) — Full-Stack TypeScript Developer
+I'm a software engineer who builds practical products across full-stack TypeScript and AI. I like working close to users: understanding a messy workflow, shipping a useful first version, and improving it from feedback.
 
-I build end-to-end web applications with **TypeScript, React, Next.js, Node.js and PostgreSQL**, with a focus on product thinking, clean architecture and real-world workflows.
+My recent work spans garage operations software, incident management, AI decision audit trails, and tools for evaluating AI agents. I'm also sharpening my React, Node.js, SQL, and system design fundamentals through hands-on projects.
 
-Most of my recent work has been around building production-style portfolio projects that go beyond basic CRUD: structured backends, workflow states, database relationships, audit logging, API design and AI-assisted product development.
+## Selected projects
 
-I'm currently focused on strengthening my fundamentals across JavaScript, TypeScript, React, Node, SQL and system design while continuing to build practical products.
+| Project | What I'm building |
+| --- | --- |
+| [Workshop](https://github.com/builtbydans/Workshop) | A garage operations platform covering leads, quotes, customers, vehicles, jobs, invoices, and an auditable job timeline. Built with Next.js, TypeScript, and Supabase/PostgreSQL. The current API uses Next.js Route Handlers and a service/repository domain layer; an earlier Express API is archived in the repo. |
+| [Replay](https://github.com/builtbydans/Replay-AI) | A hackathon prototype for inspecting and replaying AI-assisted clinical decisions with evidence and verification receipts. Won **Best Use of Cursor & Codex**. Built with Next.js, Express, Supabase, and Gensyn REE integration. |
+| [Commander](https://github.com/builtbydans/commander) | An incident management console with severity and status workflows, an append-only timeline, ownership, and on-call schedules. React/Vite frontend, Hono API, Drizzle, and PostgreSQL. |
+| [Aptura Eval Lab](https://github.com/builtbydans/aptura-eval-lab) | An experiment in comparing AI agent runs, task-level outcomes, and evidence from evaluation traces. Early-stage work built around a skill evaluation harness. |
+| [eng-recall](https://github.com/builtbydans/eng-recall) | A lightweight engineering flashcard and MCQ app for practising JavaScript, TypeScript, React, Node, and SQL concepts. |
 
----
+## Stack
 
-## Recent Projects
+- **Frontend:** TypeScript, React, Next.js, Vite, Tailwind CSS, shadcn/ui
+- **Backend:** Node.js, Express, Hono, Next.js Route Handlers
+- **Data:** PostgreSQL, Supabase, Drizzle ORM
+- **AI and development tools:** LLM APIs and agent workflows, Cursor, Codex
+- **Deployment:** Vercel, Railway
 
-### Workshop  
-**Garage and workshop operations platform**
+I'm especially interested in product engineering, useful AI systems, API design, data modelling, and the operational details that turn a prototype into a product.
 
-A full-stack operations system for garages and workshops, covering customers, vehicles, jobs, invoices and job workflow states.
-
-Built with:
-
-- Next.js, React and TypeScript
-- Node.js, Express and TypeScript
-- PostgreSQL via Supabase
-- Routes → Controllers → Services → Repositories architecture
-- Centralised job state machine
-- Audit logging and soft deletes
-
-The goal of Workshop is to demonstrate full-stack engineering foundations: API design, data modelling, business logic, validation and modular backend structure.
-
----
-
-### Replay  
-**AI-assisted decision replay prototype**
-
-A hackathon project exploring how AI agents can prepare evidence summaries and produce verifiable outputs for later review.
-
-Built as a rapid prototype using AI-assisted development tools, with a focus on product thinking, workflow design and trustworthy AI systems.
-
-Replay won a hackathon prize for best use of Cursor and Codex.
-
----
-
-## What I'm Learning
-
-- JavaScript and TypeScript fundamentals
-- Async patterns and Promise-based workflows
-- React hooks and frontend architecture
-- SQL, relational modelling and database normalisation
-- Backend architecture with Node and Express
-- AI-assisted development workflows
-
----
-
-## Tech Stack
-
-**Frontend:** React, Next.js, TypeScript, Tailwind, shadcn/ui  
-**Backend:** Node.js, Express, TypeScript  
-**Database:** PostgreSQL, Supabase  
-**Tools:** Git, GitHub, Postman, Railway, Vercel, Cursor, Codex  
-
----
-
-## Current Focus
-
-I'm currently focused on becoming a stronger full-stack/product engineer by combining:
-
-- solid engineering fundamentals
-- real product building
-- clear backend architecture
-- AI-assisted development
-- strong communication around technical decisions
-
----
-
-## Contact
-
-[LinkedIn](https://linkedin.com/in/danishshafi)  
-[Portfolio](builtbydan.com)
+[Portfolio](https://builtbydan.com) · [LinkedIn](https://www.linkedin.com/in/danishshafi/)
