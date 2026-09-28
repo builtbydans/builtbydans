@@ -6,13 +6,14 @@ My recent work spans garage operations software, incident management, AI decisio
 
 ## Selected projects
 
-| Project | What I'm building |
-| --- | --- |
-| [Workshop](https://github.com/builtbydans/Workshop) | A garage operations platform covering leads, quotes, customers, vehicles, jobs, invoices, and an auditable job timeline. Built with Next.js, TypeScript, and Supabase/PostgreSQL. The current API uses Next.js Route Handlers and a service/repository domain layer; an earlier Express API is archived in the repo. |
-| [Replay](https://github.com/builtbydans/Replay-AI) | A hackathon prototype for inspecting and replaying AI-assisted clinical decisions with evidence and verification receipts. Won **Best Use of Cursor & Codex**. Built with Next.js, Express, Supabase, and Gensyn REE integration. |
-| [Commander](https://github.com/builtbydans/commander) | An incident management console with severity and status workflows, an append-only timeline, ownership, and on-call schedules. React/Vite frontend, Hono API, Drizzle, and PostgreSQL. |
-| [Aptura Eval Lab](https://github.com/builtbydans/aptura-eval-lab) | An experiment in comparing AI agent runs, task-level outcomes, and evidence from evaluation traces. Early-stage work built around a skill evaluation harness. |
-| [eng-recall](https://github.com/builtbydans/eng-recall) | A lightweight engineering flashcard and MCQ app for practising JavaScript, TypeScript, React, Node, and SQL concepts. |
+| Project | What I'm building | Demo |
+| --- | --- | --- |
+| [Workshop](https://github.com/builtbydans/Workshop) | A garage operations platform covering leads, quotes, customers, vehicles, jobs, invoices, and an auditable job timeline. Built with Next.js, TypeScript, and Supabase/PostgreSQL. The current API uses Next.js Route Handlers and a service/repository domain layer; an earlier Express API is archived in the repo. | [Live app](https://workshop-ecru-eight.vercel.app/) |
+| [Threads](https://github.com/builtbydans/threads) | A synthetic-data healthcare prototype that brings patient updates and clinical encounters into one evidence-linked timeline, with patient and clinician views. Built with Next.js, React, TypeScript, and Supabase-aware repositories. | [Live app](https://threads-tau-two.vercel.app/) |
+| [Replay](https://github.com/builtbydans/Replay-AI) | A hackathon prototype for inspecting and replaying AI-assisted clinical decisions with evidence and verification receipts. Won **Best Use of Cursor & Codex**. Built with Next.js, Express, Supabase, and Gensyn REE integration. | [Live app](https://replay-ai-wheat.vercel.app/) |
+| [Commander](https://github.com/builtbydans/commander) | An incident management console with severity and status workflows, an append-only timeline, ownership, and on-call schedules. React/Vite frontend, Hono API, Drizzle, and PostgreSQL. | — |
+| [Aptura Eval Lab](https://github.com/builtbydans/aptura-eval-lab) | An experiment in comparing AI agent runs, task-level outcomes, and evidence from evaluation traces. Early-stage work built around a skill evaluation harness. | — |
+| [eng-recall](https://github.com/builtbydans/eng-recall) | A lightweight engineering flashcard and MCQ app for practising JavaScript, TypeScript, React, Node, and SQL concepts. | — |
 
 ## Stack
 
